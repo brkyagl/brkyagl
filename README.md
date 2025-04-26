@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+BERKAY-AĞGÜL+]-;-Ağlarsa+Kablosuz+Ağlar+Gerisi+Yalan+Ağlar-;-Allah+Ne+Verirse+Kablosuzunu+Versin-;-Bir+Bilene+Sor+Demişler+(DNS)-;-Paketlerini+Bandwithine+Göre+Uzat-;-UDP+Gibi+Kalbin+Var+Sorgusuz+Sualsiz(I)-;-ACK+Gelecek+Yerden+SEQ+Esirgenmez-;)](https://git.io/typing-svg)
 
-![](https://i.gifer.com/fetch/w300-preview/cf/cf751ab4b4355d9c0b7311e9a2cd5873.gif)
+![](https://i.ibb.co/bjH5pJbs/NBUI.gif)
 
 </div>
 
