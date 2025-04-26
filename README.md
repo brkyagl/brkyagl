@@ -1,8 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+BERKAY-AĞGÜL+]-)](https://git.io/typing-svg)
+<div align="center">
 
-![](https://s13.gifyu.com/images/SCDB1.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+BERKAY-AĞGÜL+];-Network+Security+Enthusiast;-Exploring+the+Digital+Realm;-Packets%2C+Protocols%2C+and+Protection;-Ctrl%2BC+to+Exit)](https://git.io/typing-svg)
 
-![](https://github-readme-stats.vercel.app/api?username=brkyagl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=brkyagl&theme=midnight-purple&hide_border=true)<br/>
+---
 
+<div align="center">
+
+### Hello World 👋
+
+Network derinliklerini ve network güvenliğin karmaşık katmanlarını keşfetmeyi seven biriyim.
+Bu profil, ağ güvenliği, siber savunma teknikleri ve ilgili konulardaki projelerimi ve öğrenme sürecimi yansıtmaktadır.
+
+</div>
+
+---
+
+<div align="center">
+
+### İstatistikler 📊
+
+![](https://github-readme-stats.vercel.app/api?username=brkyagl&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brkyagl&theme=midnight-purple&hide_border=true)
+
+</div>
+
+---
+<br/>
