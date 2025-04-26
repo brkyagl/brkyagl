@@ -4,6 +4,8 @@
 
 </div>
 
+![](https://media1.tenor.com/m/5fXOP8eurtkAAAAC/mr-robot.gif)
+
 ---
 
 <div align="center">
