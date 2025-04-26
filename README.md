@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### Hello World 👋
+### Merhaba! 👋
 
 Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
 Bu profil, network, network güvenliği ve ilgili konulardaki projelerimi ve öğrenme sürecimi yansıtmaktadır.
