@@ -10,7 +10,7 @@
 
 ### Hello World 👋
 
-Network derinliklerini ve network güvenliğin karmaşık katmanlarını keşfetmeyi seven biriyim.
+Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
 Bu profil, ağ güvenliği, siber savunma teknikleri ve ilgili konulardaki projelerimi ve öğrenme sürecimi yansıtmaktadır.
 
 </div>
