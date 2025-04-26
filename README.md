@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+BERKAY-AĞGÜL+];-Ağlarsa+kablosuz+ağlar+gerisi+yalan+ağlar-;-Allah+ne+verirse+kablosuzunu+versin-;-Ctrl%2BC+to+Exit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[+BERKAY-AĞGÜL+];-Ağlarsa+kablosuz+ağlar+gerisi+yalan+ağlar-;-Allah+ne+verirse+kablosuzunu+versin-;-Bir+bilene+sor+demişler+(dns)-;)](https://git.io/typing-svg)
 
 </div>
 
