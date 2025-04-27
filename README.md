@@ -6,8 +6,6 @@
 
 </div>
 
-![Music](./No1-Lalalala.mp4)
-
 ---
 
 <div align="center">
