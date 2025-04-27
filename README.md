@@ -6,7 +6,7 @@
 
 </div>
 
-![](No1-Lalalala.mp4)
+![](/No1-Lalalala.mp4)
 
 ---
 
