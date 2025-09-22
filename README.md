@@ -10,13 +10,13 @@
 
 <div align="center">
 
-<Repos are hidden!>
- 
+<a href="https://open.spotify.com/track/48YPH7NdAdLcKWPZpzf1Qi?si=38yfqWEeQ1K_hB8K6F275A">Repos are hidden!</a>
+
 Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
 
 Bu profil, network, network güvenliği ve ilgili konulardaki projelerimi ve öğrenme sürecimi yansıtmaktadır.
 
-<Repos are hidden!>
+<ahref="https://open.spotify.com/track/48YPH7NdAdLcKWPZpzf1Qi?si=38yfqWEeQ1K_hB8K6F275A">Repos are hidden!</a>
 
 </div>
 
