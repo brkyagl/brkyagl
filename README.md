@@ -10,8 +10,6 @@
 
 <div align="center">
 
-### Merhaba! 👋
-
 <Repos are hidden!>
  
 Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
