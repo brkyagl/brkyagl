@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="https://open.spotify.com/track/48YPH7NdAdLcKWPZpzf1Qi?si=38yfqWEeQ1K_hB8K6F275A">Repos are hidden!</a>
+<a href="https://youtu.be/Ndi1DJTj21U?si=fVHhGM-BtTAuKkEX">Repos are hidden!</a>
 
 Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
 
