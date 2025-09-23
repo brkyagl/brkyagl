@@ -16,7 +16,7 @@ Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşf
 
 Bu profil, network, network güvenliği ve ilgili konulardaki projelerimi ve öğrenme sürecimi yansıtmaktadır.
 
-<a href="https://open.spotify.com/track/180C23DmoV500pgOcDfYlG?si=uXHr006aQeWCoEYNMdluCw">Repos are hidden!</a>
+<a href="https://youtu.be/k59_uhwRfQ4?si=p61mpSBj8KLJtOj1">Repos are hidden!</a>
 
 </div>
 
