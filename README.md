@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<a href="https://youtu.be/Ndi1DJTj21U?si=fVHhGM-BtTAuKkEX">Repos are hidden!</a>
+<a href="">Repos are hidden!</a>
 
 Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
 
