@@ -2,7 +2,7 @@
 
 [![Video](https://media1.giphy.com/media/ZVik7pBtu9dNS/200w.gif?cid=6c09b952x1cdvynkolzqteyml29ejnt9g49yc97qqmhzprry&ep=v1_gifs_search&rid=200w.gif&ct=g)](https://www.youtube.com/watch?v=QUJpGqQly2Q)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=;-[BERKAY-AĞGÜL]-;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&color=45F700&center=true&vCenter=true&width=531&lines=-[BERKAY-AĞGÜL]-;)](https://git.io/typing-svg)
 
 </div>
 
