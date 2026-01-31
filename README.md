@@ -10,13 +10,9 @@
 
 <div align="center">
 
-<a href="">Repos are hidden!</a>
-
 Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
 
 Bu profil, network, network güvenliği ve ilgili konulardaki projelerimi ve öğrenme sürecimi yansıtmaktadır.
-
-<a href="">Repos are hidden!</a>
 
 </div>
 
