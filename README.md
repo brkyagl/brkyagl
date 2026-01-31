@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 Network derinliklerini ve network güvenliğinin karmaşık katmanlarını keşfetmeyi seven biriyim.
